@@ -1,9 +1,9 @@
 ## PrivacySafe Social UI
 
-Theme for Mastodon instance at https://privacysafe.social, based on https://github.com/ronilaukkarinen/mastodon-bird-ui
+User interface tweaks for PrivacySafe Social web instance on Mastodon network at https://privacysafe.social
 
-
+* Based on https://github.com/ronilaukkarinen/mastodon-bird-ui
 
 ### License
 
-See LICENSE
+MIT / Expact license. See LICENSE
