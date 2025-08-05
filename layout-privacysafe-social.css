@@ -12153,7 +12153,7 @@ h1 a:hover {
   display:none;
 }
 
-/* Additionally, these colors have been swapped in a find+replace for PrivacySafe Social theme from the default Mastodon theme */
+/* For the PrivacySafe Social theme, these colors have been swapped in a find+replace from the default Mastodon theme: */
 /* #6364FF (bright purple) --> #FB521F (bright orange) */
 /* #858AFA (bright purple) --> #45DA64 (bright green) */
 /* #8C8DFF (bright purple) --> #66D97D (bright green) */
