@@ -11,7 +11,7 @@
 Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up) and liberate your social life. Our community connects you with 1,000+ servers & millions of users in the decentralized Mastodon network.
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/privacysafe-social-screenshot.png" alt="Live Feed at https://privacysafe.social" width="800" /></a>
+  <a href="https://privacysafe.social"><img src="assets/privacysafe-social-screenshot.png" alt="Live Feed at https://privacysafe.social" width="1000" /></a>
   <br>
   <em>Live Feed at <a href="https://privacysafe.social">https://privacysafe.social</a></em>
 </p>
@@ -30,7 +30,7 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 * Powerful full-text search, not just tags and usernames.
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/trends01.png" alt="Easily Browse Live Feeds" width="600" /></a>
+  <a href="https://privacysafe.social"><img src="assets/trends01.png" alt="Easily Browse Live Feeds" width="800" /></a>
   <br>
   <em>Easily Browse Live Feeds</em>
 </p>
@@ -48,13 +48,13 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 </p>
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/direct-message01.png" alt="Composing a Message" width="600" /></a>
+  <a href="https://privacysafe.social"><img src="assets/direct-message01.png" alt="Composing a Message" width="800" /></a>
   <br>
   <em>Warnings for "Private Mentions" (Direct Messages)</em>
 </p>
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/helpinghen01.png" alt="@HelpingHen account" width="600" /></a>
+  <a href="https://privacysafe.social"><img src="assets/helpinghen01.png" alt="@HelpingHen account" width="800" /></a>
   <br>
   <em>@HelpingHen account</em>
 </p>
@@ -70,20 +70,20 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 * Runs on 100% Free and Open Source Software
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/8-simple-rules.png" alt="8 Simple Rules" width="600" /></a>
+  <a href="https://privacysafe.social"><img src="assets/8-simple-rules.png" alt="8 Simple Rules" width="800" /></a>
   <br>
   <em>8 Simple Rules</em>
 </p>
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/moderation01.png" alt="Moderation numbers" width="600" /></a>
+  <a href="https://privacysafe.social"><img src="assets/moderation01.png" alt="Moderation numbers" width="800" /></a>
   <br>
   <em>Moderation numbers</em>
 </p>
 
 
 <p align="center">
-  <a href="https://privacysafe.social"><img src="assets/resources01.png" alt="Crisis resources" width="600" /></a>
+  <a href="https://privacysafe.social"><img src="assets/resources01.png" alt="Crisis resources" width="800" /></a>
   <br>
   <em>Crisis resources</em>
 </p>
@@ -113,19 +113,19 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 </p>
 
 <p align="center">
-  <img src="assets/post-visibility01.png" alt="Control post visibility" width="600" />
+  <img src="assets/post-visibility01.png" alt="Control post visibility" width="800" />
   <br>
   <em>Control post visibility</em>
 </p>
 
 <p align="center">
-  <img src="assets/post-visibility02.png" alt="Control post interaction" width="600" />
+  <img src="assets/post-visibility02.png" alt="Control post interaction" width="800" />
   <br>
   <em>Control post interaction</em>
 </p>
 
 <p align="center">
-  <img src="assets/delete-account01.png" alt="Completely delete your account" width="600" />
+  <img src="assets/delete-account01.png" alt="Completely delete your account" width="800" />
   <br>
   <em>Completely delete your account</em>
 </p>
@@ -139,13 +139,13 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 * Session login history and revocation
 
 <p align="center">
-  <img src="assets/2FA.png" alt="Set up Two Factor Authentication (2FA)" width="400" />
+  <img src="assets/2FA.png" alt="Set up Two Factor Authentication (2FA)" width="600" />
   <br>
   <em>Set up Two Factor Authentication (2FA)</em>
 </p>
 
 <p align="center">
-  <img src="assets/sessions01.png" alt="View and revoke login sessions" width="600" />
+  <img src="assets/sessions01.png" alt="View and revoke login sessions" width="800" />
   <br>
   <em>View and revoke login sessions</em>
 </p>
@@ -160,25 +160,25 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 * Develop your own apps to interact with your account
 
 <p align="center">
-  <img src="assets/import01.png" alt="Import an account" width="400" />
+  <img src="assets/import01.png" alt="Import an account" width="600" />
   <br>
   <em>Import an account</em>
 </p>
 
 <p align="center">
-  <img src="assets/export01.png" alt="Export your data" width="600" />
+  <img src="assets/export01.png" alt="Export your data" width="800" />
   <br>
   <em>Export your data</em>
 </p>
 
 <p align="center">
-  <img src="assets/apps01.png" alt="Authorize applications" width="600" />
+  <img src="assets/apps01.png" alt="Authorize applications" width="800" />
   <br>
   <em>Authorize applications</em>
 </p>
 
 <p align="center">
-  <img src="assets/develop01.png" alt="Develop applications" width="600" />
+  <img src="assets/develop01.png" alt="Develop applications" width="800" />
   <br>
   <em>Develop applications</em>
 </p>
@@ -194,31 +194,31 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 * Control media visibility and sensitive media
 
 <p align="center">
-  <img src="assets/filter01.png" alt="Create a filter" width="600" />
+  <img src="assets/filter01.png" alt="Create a filter" width="800" />
   <br>
   <em>Create a filter</em>
 </p>
 
 <p align="center">
-  <img src="assets/filter02.png" alt="Example of a NSFW filter" width="600" />
+  <img src="assets/filter02.png" alt="Example of a NSFW filter" width="800" />
   <br>
   <em>Example of a NSFW filter</em>
 </p>
 
 <p align="center">
-  <img src="assets/filter03.png" alt="Manage filters" width="600" />
+  <img src="assets/filter03.png" alt="Manage filters" width="800" />
   <br>
   <em>Manage filters</em>
 </p>
 
 <p align="center">
-  <img src="assets/sensitive01.png" alt="Block or hide all media or content marked sensitive" width="600" />
+  <img src="assets/sensitive01.png" alt="Block or hide all media or content marked sensitive" width="800" />
   <br>
   <em>Block or hide all media or content marked sensitive</em>
 </p>
 
 <p align="center">
-  <img src="assets/email01.png" alt="Email notification settings" width="600" />
+  <img src="assets/email01.png" alt="Email notification settings" width="800" />
   <br>
   <em>Email notification settings</em>
 </p>
@@ -229,3 +229,4 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 © 2025-present Ivy Cyber Education LLC. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark.
 
 Released under the [MIT/Expat License](LICENSE). See [LICENSE](LICENSE) for more information. Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen).
+
