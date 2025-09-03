@@ -137,6 +137,7 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 * Two Factor Authentication (2FA) support
 * Security reporting with PGP and a public bug bounty program
 * Session login history and revocation
+* Authentication history for security audits
 
 <p align="center">
   <img src="assets/2FA.png" alt="Set up Two Factor Authentication (2FA)" width="600" />
@@ -145,9 +146,15 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 </p>
 
 <p align="center">
-  <img src="assets/sessions01.png" alt="View and revoke login sessions" width="800" />
+  <img src="assets/session01.png" alt="View and revoke login sessions" width="800" />
   <br>
   <em>View and revoke login sessions</em>
+</p>
+
+<p align="center">
+  <img src="assets/authentication01.png" alt="View a history of past sign-ins" width="800" />
+  <br>
+  <em>View a history of past sign-ins</em>
 </p>
 
 ---
@@ -229,4 +236,5 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 © 2025-present Ivy Cyber Education LLC. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark.
 
 Released under the [MIT/Expat License](LICENSE). See [LICENSE](LICENSE) for more information. Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen).
+
 
