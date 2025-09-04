@@ -18,6 +18,8 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 
 **This repository contains our style modifications to the default Mastodon look and feel. Please see the file `layout-privacysafe-social.css` for our stylesheets.**
 
+Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen).
+
 ---
 
 ## Usability
@@ -236,5 +238,6 @@ Sign Up for Free at [privacysafe.social](https://privacysafe.social/auth/sign_up
 © 2025-present Ivy Cyber Education LLC. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark.
 
 Released under the [MIT/Expat License](LICENSE). See [LICENSE](LICENSE) for more information. Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen).
+
 
 
