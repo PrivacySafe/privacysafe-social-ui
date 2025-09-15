@@ -2,7 +2,7 @@
 
   # PrivacySafe Social
 
-  <a href="https://privacysafe.social"><img src="assets/privacysafe-social.png" width="600" alt="PrivacySafe Social" /></a>
+  <a href="https://privacysafe.social"><img src="assets/privacysafe_social_banner.jpg" width="600" alt="PrivacySafe Social" /></a>
 
   ## Your Stylish Twitter X Replacement. No Ads, No Spyware, No Manipulation.
 
@@ -237,7 +237,8 @@ Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://git
 ## License
 © 2024-present <a href="https://ivycyber.com" target="_blank">Ivy Cyber LLC</a>. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark.
 
-Released under the [MIT/Expat License](LICENSE). See [LICENSE](LICENSE) for more information. Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen).
+Released under the [MIT/Expat License](LICENSE). See [LICENSE](LICENSE) for more information. Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen). Top banner modifed from artwork CC BY <a href="https://www.deviantart.com/pikswell/art/Retro-wave-Lofi-956577184" target="_blank">Pikswell</a>.
+
 
 
 
