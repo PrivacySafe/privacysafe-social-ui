@@ -1,4 +1,4 @@
-/* PrivacySafe Social UI v25.08.01 for https://privacysafe.social by Sean O'Brien @profdiggity@privacysafe.social */
+/* PrivacySafe Social UI v25.09.14 for https://privacysafe.social by Sean O'Brien @profdiggity@privacysafe.social */
 /* Derived from Mastodon Bird UI v2.3.3 by Roni Laukkarinen @rolle@mementomori.social */
 /* Licensed GNU Affero General Public License (AGPL) version 3 or later. Contact opensource@privacysafe.net with questions. */ 
 
@@ -11788,10 +11788,14 @@ div[tabindex="-1"]
   display: block;
   float: center;
   margin: auto;
-  width: 128px;
-  height: 128px;
-  border: 0;
-  border-radius: 50%;
+  /*width: 128px;*/
+  /*height: 128px;*/
+  width: 80%;
+  height: auto;
+  /*border: 0;*/
+  border: 1px solid #333;
+  /*border-radius: 50%;*/
+  border-radius: 12px;
   box-shadow: rgb(255 255 255 / 0.03) 0 0 2px inset;
 }
 
@@ -12153,7 +12157,7 @@ h1 a:hover {
   display:none;
 }
 
-/* For the PrivacySafe Social theme, these colors have been swapped in a find+replace from the default Mastodon theme: */
+/* Additionally, these colors have been swapped in a find+replace for PrivacySafe Social theme from the default Mastodon theme */
 /* #6364FF (bright purple) --> #FB521F (bright orange) */
 /* #858AFA (bright purple) --> #45DA64 (bright green) */
 /* #8C8DFF (bright purple) --> #66D97D (bright green) */
