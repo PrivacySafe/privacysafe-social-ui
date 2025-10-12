@@ -194,6 +194,16 @@ Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://git
 
 ---
 
+**NOTE:** If you are an operator of another Mastodon server instance, please consider adding PrivacySafe Social to your list of relays. Just navigate to "Administration" > "Relays" > "Add new relay", paste in `https://relay.fedi.buzz/instance/privacysafe.social` , and click "Save and enable"
+
+<p align="center">
+  <img src="assets/add-new-relay" alt="PrivacySafe Social Relay" width="800" />
+  <br>
+  <em>PrivacySafe Social Relay URL, courtesy of fedi.buzz</em>
+</p>
+
+---
+
 ## Autonomy
 
 * No AI manipulation of timelines, no AI moderation or suggestions
@@ -238,6 +248,7 @@ Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://git
 © 2024-present <a href="https://ivycyber.com" target="_blank">Ivy Cyber LLC</a>. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark.
 
 Released under the [MIT/Expat License](LICENSE). See [LICENSE](LICENSE) for more information. Our theme for PrivacySafe Social is modified from [mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) by [Roni Laukkarinen](https://github.com/ronilaukkarinen). Top banner modifed from artwork CC BY <a href="https://www.deviantart.com/pikswell/art/Retro-wave-Lofi-956577184" target="_blank">Pikswell</a>.
+
 
 
 
